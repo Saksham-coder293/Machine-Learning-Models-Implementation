@@ -1,0 +1,1 @@
+This file contains the basic classification task, using SGDClassifier, DummyClassifier with prediction using metrics like precision,recall and F1 Score. It used the mnist dataset, and performed classification. 
